@@ -1,4 +1,0 @@
-﻿  Hi-Lo.cpp
-D:\VS++\5\Hi-Lo\Hi-Lo\Hi-Lo.cpp(28): warning C4715: inputPlayer: значение возвращается не при всех путях выполнения
-D:\VS++\5\Hi-Lo\Hi-Lo\Hi-Lo.cpp(75): warning C4715: guessing: значение возвращается не при всех путях выполнения
-  Hi-Lo.vcxproj -> D:\VS++\5\Hi-Lo\Debug\Hi-Lo.exe
